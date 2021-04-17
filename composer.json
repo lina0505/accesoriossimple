@@ -3,28 +3,20 @@
   "description": "Proyecto accesorios simples",
   "type": "project",
   "keywords": ["sistema", "inventario", "example"],
-  "homepage": "https://github.com/EjemplosADSI/EjemploEstructuraProyecto",
-  "time": "2021-04-15",
+  "homepage": "https://github.com/Gustavorozo/accesoriossimple.git",
+  "time": "2021-04-17",
   "license": "MIT",
   "authors": [
     {
       "name": "Gustavo Rozo",
+      "email": "gustavoandresrozozea@gmail.com",
+      "homepage": "http://www.sena.edu.co",
       "role": "Developer"
     },
     {
-      "name": "lina llanos",
-      "role": "Developer"
-    },
-    {
-      "name": "felipe robles",
-      "role": "Developer"
-    },
-    {
-      "name": "andres urrutia",
-      "role": "Developer"
-    },
-    {
-      "name": "libardo heredia",
+      "name": "Andres Urrutia",
+      "email": "uandres791@gmail.com",
+      "homepage": "http://www.sena.edu.co",
       "role": "Developer"
     }
   ],
